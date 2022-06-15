@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "data": {
+        "ibus": [
+            {
+                "routeId": "1960",
+                "line": "196",
+                "text-ca": "imminent",
+                "t-in-s": 20,
+                "destination": "Bellesguard",
+                "t-in-min": 0
+            },
+            {
+                "routeId": "2130",
+                "line": "V13",
+                "text-ca": "1 min",
+                "t-in-s": 111,
+                "destination": "Av. Tibidabo",
+                "t-in-min": 1
+            },
+            {
+                "routeId": "1230",
+                "line": "123",
+                "text-ca": "17 min",
+                "t-in-s": 1036,
+                "destination": "Iradier",
+                "t-in-min": 17
+            }
+        ]
+    }
+}
